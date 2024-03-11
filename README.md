@@ -13,3 +13,7 @@ Mouse Each level will have another cat as an enemy following the cat - if player
 
 Additional Features
 We will have pieces of cheese that the player picks up as they go through the maze that increases their speed.
+
+Contributions
+For movement and moving the player I used the function ‘keyPressed()’ to have the player react every time a key is pressed
+I started it with player.setDirection()' and continued with creating a new method. This was done with others in the group also.
