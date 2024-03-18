@@ -1,4 +1,4 @@
-# 2409611-ma2805-final-project
+# 2409611-ma2805
 Cat and Mouse
 Group Responsibilities
 Tyreese & Liz - Digital Art Evie - TileMap Emma - Classes Molly & Michaella - Movement
